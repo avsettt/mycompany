@@ -396,3 +396,7 @@ footer img{
 footer img:hover{
     opacity: 0.6;
 }
+.w3c{
+    float: right;
+    margin-top: 25px
+}
